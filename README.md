@@ -16,6 +16,10 @@ Sou estudante de **Ciência da Computação na UTFPR** e **Técnico em Informát
 - **Atualmente:** Atuo como **Líder de Projeto e Secretário** na [**KnockUp Game Studio**](https://www.linkedin.com/company/knockup-game-studio/), gerenciando equipes e sprints com metodologia ágil **Scrum**.
 - **Idiomas:** Português (Nativo) | Inglês (Fluente).
 
+<div align="center">
+   <img height="200em" src="https://github-stats-extended.vercel.app/api?username=DanhDie&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="200em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanhDie&layout=compact&langs_count=7&theme=github_dark&hide_border=true" alt="Top Languages" />
+</div>
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -69,19 +73,11 @@ Sou estudante de **Ciência da Computação na UTFPR** e **Técnico em Informát
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
 |  [**Projeto_ComputacaoGrafica**](https://github.com/DanhDie/Projeto_ComputacaoGrafica) | Desenvolvimento de um **motor gráfico 2D** voltado ao estudo prático e fundamentação de conceitos essenciais de Computação Gráfica. | `C++` `Computação Gráfica` |
-| 📱 [**GetThatVideo**](https://github.com/DanhDie/GetThatVideo) | Aplicativo para extração de vídeos, áudios e metadados da internet de forma simples e direta. | `Kotlin` `Android` |
-| 🎮 [**Project-TP3-Godot**](https://github.com/DanhDie/Project-TP3-Godot) | Jogo desenvolvido aplicando conceitos avançados de programação e arquitetura de jogos na Godot Engine. | `Godot` `C#` `GDScript` |
-| 🎲 [**TPK-WebServidor**](https://github.com/DanhDie/TPK-WebServidor) | Plataforma web completa para gerenciamento de campanhas de RPG, com autenticação e persistência em banco relacional. | `PHP` `MySQL` `MariaDB` `Bulma` |
-| 🧙‍♂️ [**npc-generator-api**](https://github.com/DanhDie/npc-generator-api) | Aplicação e API para geração automatizada de NPCs. | `PHP` `Laravel` `Blade` |
-| 🔔 [**Sistema Alarme de Porta**](https://github.com/gab-in/Alarme_de_porta_ESP8266) | Sistema embarcado de detecção e registro de abertura de portas integrando hardware e programação de baixo nível. | `ESP32/8266` `C++` `Assembly` |
-
-
-### 📊 Estatísticas no GitHub
-
-<div align="center">
-   <img height="200em" src="https://github-stats-extended.vercel.app/api?username=DanhDie&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="200em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanhDie&layout=compact&langs_count=7&theme=github_dark&hide_border=true" alt="Top Languages" />
-</div>
+| [**GetThatVideo**](https://github.com/DanhDie/GetThatVideo) | Aplicativo para extração de vídeos, áudios e metadados da internet de forma simples e direta. | `Kotlin` `Android` |
+| [**Project-TP3-Godot**](https://github.com/DanhDie/Project-TP3-Godot) | Jogo desenvolvido aplicando conceitos avançados de programação e arquitetura de jogos na Godot Engine. | `Godot` `C#` `GDScript` |
+| [**TPK-WebServidor**](https://github.com/DanhDie/TPK-WebServidor) | Plataforma web completa para gerenciamento de campanhas de RPG, com autenticação e persistência em banco relacional. | `PHP` `MySQL` `MariaDB` `Bulma` |
+| [**npc-generator-api**](https://github.com/DanhDie/npc-generator-api) | Aplicação e API para geração automatizada de NPCs. | `PHP` `Laravel` `Blade` |
+| [**Sistema Alarme de Porta**](https://github.com/gab-in/Alarme_de_porta_ESP8266) | Sistema embarcado de detecção e registro de abertura de portas integrando hardware e programação de baixo nível. | `ESP32/8266` `C++` `Assembly` |
 
 ---
 
