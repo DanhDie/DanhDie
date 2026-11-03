@@ -17,8 +17,8 @@ Sou estudante de **Ciência da Computação na UTFPR** e **Técnico em Informát
 - **Idiomas:** Português (Nativo) | Inglês (Fluente).
 
 <div align="center">
-   <img height="200em" src="https://github-stats-extended.vercel.app/api?username=DanhDie&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="200em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanhDie&layout=compact&langs_count=7&theme=github_dark&hide_border=true" alt="Top Languages" />
+   <img height="250em" src="https://github-stats-extended.vercel.app/api?username=DanhDie&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="250em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanhDie&layout=compact&langs_count=7&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -82,5 +82,5 @@ Sou estudante de **Ciência da Computação na UTFPR** e **Técnico em Informát
 ---
 
 <div align="center">
-  <sub>💼 Aberto a oportunidades! <br/> Entre em contato pelo <a href="https://www.linkedin.com/in/daniel-dwulatka/">LinkedIn</a> ou via <a href="mailto:Dwulatka.daniel@gmail.com">Dwulatka.daniel@gmail.com</a>.</sub>
+  <sub>💼 Aberto a oportunidades! <br/> Entre em contato pelo <a href="https://www.linkedin.com/in/daniel-dwulatka/">LinkedIn</a> ou via <a href="mailto:Dwulatka.daniel@gmail.com">Dwulatka.daniel@gmail.com</a></sub>
 </div>
