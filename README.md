@@ -68,7 +68,7 @@ Sou estudante de **Ciência da Computação na UTFPR** e **Técnico em Informát
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| 🎯 [**Projeto_ComputacaoGrafica**](https://github.com/DanhDie/Projeto_ComputacaoGrafica) | Desenvolvimento de um **motor gráfico 2D** voltado ao estudo prático e fundamentação de conceitos essenciais de Computação Gráfica. | `C++` `Computação Gráfica` |
+|  [**Projeto_ComputacaoGrafica**](https://github.com/DanhDie/Projeto_ComputacaoGrafica) | Desenvolvimento de um **motor gráfico 2D** voltado ao estudo prático e fundamentação de conceitos essenciais de Computação Gráfica. | `C++` `Computação Gráfica` |
 | 📱 [**GetThatVideo**](https://github.com/DanhDie/GetThatVideo) | Aplicativo para extração de vídeos, áudios e metadados da internet de forma simples e direta. | `Kotlin` `Android` |
 | 🎮 [**Project-TP3-Godot**](https://github.com/DanhDie/Project-TP3-Godot) | Jogo desenvolvido aplicando conceitos avançados de programação e arquitetura de jogos na Godot Engine. | `Godot` `C#` `GDScript` |
 | 🎲 [**TPK-WebServidor**](https://github.com/DanhDie/TPK-WebServidor) | Plataforma web completa para gerenciamento de campanhas de RPG, com autenticação e persistência em banco relacional. | `PHP` `MySQL` `MariaDB` `Bulma` |
@@ -79,8 +79,9 @@ Sou estudante de **Ciência da Computação na UTFPR** e **Técnico em Informát
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DanhDie&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanhDie&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=DanhDie)](https://github.com/stats-organization/github-stats-extended)
+   <img height="165em" src="https://github-stats-extended.vercel.app/api?username=DanhDie&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanhDie&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
