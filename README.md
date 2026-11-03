@@ -1,7 +1,7 @@
-<div align="center">
+<div>
 
-  # Olá! Eu sou o Daniel Dwulatka 👋
-  ### Ciência da Computação @ UTFPR | Líder de Projetos @ KnockUp Game Studio | Desenvolvedor de Software & Jogos
+  # Olá! Eu sou o Daniel Dwulatka 
+  ### Ciência da Computação | Líder de Projeto | Desenvolvedor de Software & Jogos
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-dwulatka/)
   [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Dwulatka.daniel@gmail.com)
@@ -9,19 +9,13 @@
 
 </div>
 
----
+### Sobre Mim
 
-### 👨‍💻 Sobre Mim
+Sou estudante de **Ciência da Computação na UTFPR** e **Técnico em Informática pelo IFPR**. Transito entre o desenvolvimento de software de alto nível (Web, Mobile e Jogos) e a base computacional (C/C++, Computação Gráfica e Sistemas Embarcados) e recentemente  venho me aprofundando na área de dados, unindo capacidade técnica à liderança de equipes. 
 
-Sou estudante de **Ciência da Computação na UTFPR** (Ponta Grossa) e **Técnico em Informática pelo IFPR** (Irati). Gosto de transitar entre o desenvolvimento de software de alto nível (Web, Mobile e Jogos) e a base computacional (C/C++, Computação Gráfica, Compiladores e Sistemas Embarcados), unindo capacidade técnica à liderança de equipes.
+- **Atualmente:** Atuo como **Líder de Projeto e Secretário** na [**KnockUp Game Studio**](https://www.linkedin.com/company/knockup-game-studio/), gerenciando equipes e sprints com metodologia ágil **Scrum**.
+- **Idiomas:** Português (Nativo) | Inglês (Fluente).
 
-- 🎮 **Atualmente:** Atuo como **Líder de Projeto e Secretário** na [**KnockUp Game Studio**](https://www.linkedin.com/company/knockup-game-studio/), gerenciando equipes e sprints com metodologia ágil **Scrum**.
-- 🎓 **Formação:** Bacharelado em Ciência da Computação na **UTFPR** (2024 – presente) e Técnico em Informática no **IFPR** (2021 – 2023).
-- 🌱 **Explorando:** Engenharia de Software, Desenvolvimento Mobile (**Kotlin**), Game Dev (**Godot / C#**), Computação Gráfica (**C++**) e Redes/Sistemas.
-- 🤝 **Impacto Social & Liderança:** Ex-instrutor de programação em Python no projeto *Hora do Código* e co-fundador/coordenador do projeto *Arte em Cena*.
-- 🌎 **Idiomas:** Português (Nativo) | Inglês (Fluente).
-
----
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -69,7 +63,6 @@ Sou estudante de **Ciência da Computação na UTFPR** (Ponta Grossa) e **Técni
   </tr>
 </table>
 
----
 
 ### 🚀 Projetos em Destaque
 
@@ -82,7 +75,6 @@ Sou estudante de **Ciência da Computação na UTFPR** (Ponta Grossa) e **Técni
 | 🧙‍♂️ [**npc-generator-api**](https://github.com/DanhDie/npc-generator-api) | Aplicação e API para geração automatizada de NPCs. | `PHP` `Laravel` `Blade` |
 | 🔔 [**Sistema Alarme de Porta**](https://github.com/gab-in/Alarme_de_porta_ESP8266) | Sistema embarcado de detecção e registro de abertura de portas integrando hardware e programação de baixo nível. | `ESP32/8266` `C++` `Assembly` |
 
----
 
 ### 📊 Estatísticas no GitHub
 
@@ -94,5 +86,5 @@ Sou estudante de **Ciência da Computação na UTFPR** (Ponta Grossa) e **Técni
 ---
 
 <div align="center">
-  <sub>💼 Aberto a oportunidades, projetos colaborativos e trocas de ideias sobre Engenharia de Software, Game Dev e Sistemas! <br/> Entre em contato pelo <a href="https://www.linkedin.com/in/daniel-dwulatka/">LinkedIn</a> ou via <a href="mailto:Dwulatka.daniel@gmail.com">Dwulatka.daniel@gmail.com</a>.</sub>
+  <sub>💼 Aberto a oportunidades! <br/> Entre em contato pelo <a href="https://www.linkedin.com/in/daniel-dwulatka/">LinkedIn</a> ou via <a href="mailto:Dwulatka.daniel@gmail.com">Dwulatka.daniel@gmail.com</a>.</sub>
 </div>
