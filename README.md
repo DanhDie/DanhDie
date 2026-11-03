@@ -79,9 +79,8 @@ Sou estudante de **Ciência da Computação na UTFPR** e **Técnico em Informát
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=DanhDie)](https://github.com/stats-organization/github-stats-extended)
-   <img height="165em" src="https://github-stats-extended.vercel.app/api?username=DanhDie&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanhDie&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Languages" />
+   <img height="200em" src="https://github-stats-extended.vercel.app/api?username=DanhDie&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="200em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanhDie&layout=compact&langs_count=7&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
